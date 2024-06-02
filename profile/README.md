@@ -1,12 +1,11 @@
-## Hi there 👋
+## 벼룩이
+> 미림 마이스터고 학생들을 위한 중고거래 웹서비스
 
-<!--
+### 기술 스택
+- 백엔드: `SpringBoot3`, `Spring Data JPA`, `STOMP`
+- 프론트엔드: `React`, `Redux`
+- CI/CD: `GitHub Actions`, `AWS Elasctic Beanstalk`, `Netlify`
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 참여
+- 프론트엔드 개발자: [최보람](https://github.com/bhark065) , [김서연](https://github.com/seoyeon0203)
+- 백엔드 개발자: [황혜경](https://github.com/hyeg0121) , [이서영](https://github.com/seoyoung1276)
